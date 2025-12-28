@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fitnesscenter">
+
+    <!-- OPTIONAL: Internet access only if you later support online videos -->
+    <!-- <uses-permission android:name="android.permission.INTERNET" /> -->
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FitnessCenter">
+
+        <!-- Launcher Activity -->
+        <activity
+            android:name=".StartingActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Authentication Activities -->
+        <activity android:name=".MainActivity" android:exported="false" />
+        <activity android:name=".RegisterActivity" android:exported="false" />
+
+        <!-- Home Activity -->
+        <activity android:name=".HomeActivity" android:exported="false" />
+
+        <!-- Workout Category Activities -->
+        <activity android:name=".UpperBodyActivity" android:exported="false" />
+        <activity android:name=".LowerBodyActivity" android:exported="false" />
+        <activity android:name=".FullBodyActivity" android:exported="false" />
+        <activity android:name=".FreeStyleActivity" android:exported="false" />
+
+        <!-- Video Activity Thumbnails -->
+        <activity android:name=".VideoActivity1" android:exported="false" />
+        <activity android:name=".VideoActivity2" android:exported="false" />
+        <activity android:name=".VideoActivity3" android:exported="false" />
+        <activity android:name=".VideoActivity4" android:exported="false" />
+        <activity android:name=".VideoActivity5" android:exported="false" />
+        <activity android:name=".VideoActivity6" android:exported="false" />
+        <activity android:name=".VideoActivity7" android:exported="false" />
+        <activity android:name=".VideoActivity8" android:exported="false" />
+
+        <!-- Video Player Activity -->
+        <activity android:name=".VideoPlayerActivity" android:exported="false" />
+
+    </application>
+
+</manifest>

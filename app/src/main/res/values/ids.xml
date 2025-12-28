@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dayImage" type="id"/>
+    <item name="dayTitle" type="id"/>
+    <item name="daySubtitle" type="id"/>
+    <item name="statusDot" type="id"/>
+</resources>

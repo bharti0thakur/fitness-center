@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:gravity="center"
+    android:background="#1B263B"
+    android:elevation="4dp">
+
+    <!-- Workout Image -->
+    <ImageView
+        android:id="@+id/dayImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/app_logo"
+        android:background="@drawable/circle_bg"
+        android:clipToOutline="true" />
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/dayTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/day_x"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp" />
+
+    <!-- Subtitle -->
+    <TextView
+        android:id="@+id/daySubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/subtitle"
+        android:textColor="#BBBBBB"
+        android:textSize="13sp"
+        android:layout_marginTop="2dp" />
+
+    <!-- Status Dot -->
+    <View
+        android:id="@+id/statusDot"
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="center"
+        android:background="@drawable/status_dot_done" />
+</LinearLayout>

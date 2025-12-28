@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0D1B2A</color> <!-- Navy Blue -->
+    <color name="on_primary">#FFFFFF</color> <!-- White -->
+    <color name="secondary">#8BC34A</color> <!-- Light Green -->
+    <color name="on_secondary">#263238</color> <!-- Dark Text -->
+</resources>

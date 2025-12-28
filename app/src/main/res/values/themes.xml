@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Light Theme -->
+    <style name="Base.Theme.FitnessCenter" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+
+        <!-- System UI -->
+        <item name="android:statusBarColor">@color/primary</item>
+
+        <!-- Typography -->
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <!-- Final Theme -->
+    <style name="Theme.FitnessCenter" parent="Base.Theme.FitnessCenter" />
+
+</resources>

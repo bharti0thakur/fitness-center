@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Fitness Center</string>
+    <string name="logo_description">Fitness Center Logo</string>
+    <string name="app_logo">App Logo</string>
+
+    <!-- Welcome / Titles -->
+    <string name="welcome_to_fitness_center">Welcome to Fitness Center</string>
+    <string name="get_started">Get Started</string>
+    <string name="create_account">Create Account</string>
+
+    <!-- Authentication -->
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- Inputs -->
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+
+    <!-- Misc -->
+    <string name="admin">Admin</string>
+    <string name="label">Label</string>
+    <string name="_30_day_challenges">30-DAY CHALLENGES</string>
+    <string name="_15">15%</string>
+    <string name="start_workout">Start workout</string>
+    <string name="emoji">😄</string>
+
+    <!-- Navigation Button Labels -->
+    <string name="page_1">Page 1</string>
+    <string name="page_2">Page 2</string>
+    <string name="page_3">Page 3</string>
+    <string name="page_4">Page 4</string>
+
+    <!-- Page Titles -->
+    <string name="page_1_title">Welcome to Page 1</string>
+    <string name="page_2_title">Welcome to Page 2</string>
+    <string name="page_3_title">Welcome to Page 3</string>
+    <string name="page_4_title">Welcome to Page 4</string>
+    <string name="welcome_to_page_1">Welcome to Page 1</string>
+    <string name="welcome_to_page_2">Welcome to Page 2</string>
+    <string name="welcome_to_page_3">Welcome to Page 3</string>
+    <string name="welcome_to_page_4">Welcome to Page 4</string>
+
+    <!-- Workout Labels -->
+    <string name="day1">Day 1</string>
+    <string name="day_x">Day X</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="lorem_ipsum_dolor">Lorem ipsum dolor</string>
+
+    <string name="upper_body">Upper Body</string>
+    <string name="lower_body">Lower Body</string>
+    <string name="full_body">Full Body</string>
+    <string name="free_style">Free Style</string>
+    <string name="home_fitness">Home Fitness</string>
+
+    <!-- Upper Body Tabs -->
+    <string name="video_1">Push Ups</string>
+    <string name="video_2">Pull Ups</string>
+    <string name="video_3">Shoulder Press</string>
+    <string name="video_4">Bicep Curls</string>
+    <string name="video_5">Tricep Dips</string>
+    <string name="video_6">Chest Press</string>
+    <string name="video_7">Plank</string>
+    <string name="video_8">Arm Circles</string>
+
+    <!-- Upper Body Exercise Benefits -->
+    <string name="upperbody1_description">
+        Builds arm strength\n
+        Improves muscle tone\n
+        Enhances lifting ability\n
+        Supports elbow joints\n
+        Increases arm endurance\n
+        Improves arm shape
+    </string>
+
+    <string name="upperbody2_description">
+        Strengthens chest and arms\n
+        Improves shoulder stability\n
+        Builds upper body endurance\n
+        Enhances core strength\n
+        Improves posture\n
+        Burns calories
+    </string>
+
+    <string name="upperbody3_description">
+        Builds arm strength\n
+        Improves muscle tone\n
+        Enhances lifting ability\n
+        Supports elbow joints\n
+        Increases arm endurance\n
+        Improves arm shape
+    </string>
+
+    <string name="upperbody4_description">
+        Strengthens shoulder muscles\n
+        Improves joint stability\n
+        Enhances pushing strength\n
+        Supports overhead movements\n
+        Improves posture\n
+        Increases muscle endurance
+    </string>
+
+    <string name="upperbody5_description">
+        Strengthens back muscles\n
+        Builds arm strength\n
+        Improves grip power\n
+        Enhances posture\n
+        Increases muscle endurance\n
+        Boosts upper body control
+    </string>
+
+    <string name="upperbody6_description">
+        Strengthens chest and arms\n
+        Improves shoulder stability\n
+        Builds upper body endurance\n
+        Enhances core strength\n
+        Improves posture\n
+        Burns calories
+    </string>
+
+    <string name="upperbody7_description">
+        Strengthens chest and arms\n
+        Improves shoulder stability\n
+        Builds upper body endurance\n
+        Enhances core strength\n
+        Improves posture\n
+        Burns calories
+    </string>
+
+    <string name="upperbody8_description">
+        Increases upper body strength\n
+        Improves pushing movements\n
+        Enhances muscle coordination\n
+        Supports shoulder joints\n
+        Boosts muscle growth
+    </string>
+
+    <!-- Common Placeholders -->
+    <string name="video_description_will_appear_here">Video description will appear here</string>
+    <string name="video_description_will_appear_hh">Video description will appear hh</string>
+    <string name="description_goes_here">Description goes here.</string>
+
+</resources>
