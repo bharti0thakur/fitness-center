@@ -102,3 +102,4 @@ git clone https://github.com/your-username/FitnessCenter.git
 <img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/a8b72d45-a457-438b-b68d-70e81f07ccc3" />
 
 ## 📂 Project Structure
+<img width="1080" height="2408" alt="Image" src="https://github.com/user-attachments/assets/9875ac93-00d9-49bb-ae72-3846c639e683" />
